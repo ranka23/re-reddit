@@ -12,7 +12,7 @@ Express
 Graphql
 Databases - Postgresql and Redis (Redis is mostly used to track sessions and login tokens. The actual data is stored in Postgresql)
 
-Users can login/register on the frontend; create view, update and delete posts. Additionally, they can upvote or downvote individual posts as you can on reddit.
+Users can login/register on the frontend; create, view, update and delete posts. Additionally, they can upvote or downvote individual posts as you can on reddit.
 
 This project is just for demonstration and educational purposes. Take care if you wish to use it in production.
 
